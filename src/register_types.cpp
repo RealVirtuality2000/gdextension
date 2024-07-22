@@ -9,6 +9,15 @@
 #include "my_node.hpp"
 #include "my_singleton.hpp"
 
+#include "ww_bank.hpp"
+#include "ww_event.hpp"
+#include "ww_environment.hpp"
+#include "ww_listener.hpp"
+#include "ww_state.hpp"
+#include "ww_switch.hpp"
+#include "ww_event2d.hpp"
+#include "ww_listener2d.hpp"
+
 using namespace godot;
 
 static MySingleton *_my_singleton;
@@ -23,6 +32,15 @@ void gdextension_initialize(ModuleInitializationLevel p_level)
 		_my_singleton = memnew(MySingleton);
 		Engine::get_singleton()->register_singleton("MySingleton", MySingleton::get_singleton());
 	}
+
+	ClassDB::register_class<WWBank>();
+	ClassDB::register_class<WWEvent>();
+	ClassDB::register_class<WWEnvironment>();
+	ClassDB::register_class<WWListener>();
+	ClassDB::register_class<WWState>();
+	ClassDB::register_class<WWSwitch>();
+	ClassDB::register_class<WWEvent2D>();
+	ClassDB::register_class<WWListener2D>();
 }
 
 void gdextension_terminate(ModuleInitializationLevel p_level)

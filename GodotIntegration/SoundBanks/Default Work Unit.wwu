@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9CAAF29E-C9F4-4B8C-A5AB-49EF1C869AF0}" SchemaVersion="119">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{9CAAF29E-C9F4-4B8C-A5AB-49EF1C869AF0}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="GodotIntegration" ID="{9CA91B49-6200-4F39-9FD7-2BEF01852A8F}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Stop_All" ID="{7FA867C8-39E0-4C32-B3D5-86B558B7E6DA}" WorkUnitID="{EF4BFD22-CE8B-4B63-9AFB-474AFD4387FF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play" ID="{594AF138-2B3F-4F03-AC22-54B9BE16E473}" WorkUnitID="{EF4BFD22-CE8B-4B63-9AFB-474AFD4387FF}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

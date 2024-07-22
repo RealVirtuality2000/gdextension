@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EF4BFD22-CE8B-4B63-9AFB-474AFD4387FF}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{EF4BFD22-CE8B-4B63-9AFB-474AFD4387FF}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play" ID="{594AF138-2B3F-4F03-AC22-54B9BE16E473}">
+					<ChildrenList>
+						<Action Name="" ID="{A00E84B9-4CA5-4C04-A292-0EA3CE913274}" ShortID="855133956">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MAGIC 01" ID="{EFD826B2-A28D-4EC3-8609-0608A240168A}" WorkUnitID="{D9329DB3-E4D7-45AA-BD40-6EB28C6C4D39}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_All" ID="{7FA867C8-39E0-4C32-B3D5-86B558B7E6DA}">
+					<ChildrenList>
+						<Action Name="" ID="{C571A248-3A1E-4C4D-AAFB-73B30CC3AD0D}" ShortID="930166395">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="3"/>
+							</PropertyList>
+							<ReferenceList/>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="State" ID="{4D458600-8F70-47AE-85C6-5413485CC0CC}">
+					<ChildrenList>
+						<Action Name="" ID="{A794C743-FAE3-445E-80B7-384C78A54864}" ShortID="366651297">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="InGame" ID="{558032AE-3E2B-417D-A114-5B50A0DD0133}" WorkUnitID="{DD34295E-D549-4A4F-BB49-CB3ABE3AFD08}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

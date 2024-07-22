@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="GodotIntegration" GUID="{A394F8F2-C501-48FB-B1DB-54BF643F8D5F}" Generator="2023.1.4.8496"/>
+	<CacheRoot>../.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Windows" GUID="{02165419-D480-4AF2-B42B-AAFB6A0BE585}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../project/SoundBanks"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{58BDB176-6B96-4E8D-A368-7C6E9C99FD36}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{4974B6B2-C9F8-38CE-F5B3-7C8DAE49CCCC}</FileHash>
+</ProjectInfo>

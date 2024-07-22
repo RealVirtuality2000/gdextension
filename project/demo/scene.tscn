@@ -1,8 +1,10 @@
-[gd_scene load_steps=2 format=3 uid="uid://c7u64tpv6byvb"]
+[gd_scene load_steps=3 format=3 uid="uid://c7u64tpv6byvb"]
 
 [ext_resource type="Script" path="res://demo/scene.gd" id="1_lih0m"]
+[ext_resource type="Script" path="res://demo/wwise_func.gd" id="2_evi5i"]
 
 [node name="Scene" type="Node"]
 script = ExtResource("1_lih0m")
 
-[node name="MyNode" type="MyNode" parent="."]
+[node name="WwiseFunc" type="Node" parent="."]
+script = ExtResource("2_evi5i")

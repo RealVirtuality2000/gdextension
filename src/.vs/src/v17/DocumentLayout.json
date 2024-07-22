@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\waapi_picker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:waapi_picker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\waapi_picker.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:waapi_picker.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_listener.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_listener.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_listener2d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_listener2d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_listener2d.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_listener2d.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_switch.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_switch.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_bank.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_bank.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_environment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_environment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_environment.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_environment.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_listener.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_listener.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_event2d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_event2d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_state.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_state.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_state.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_state.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_event2d.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_event2d.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_event.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ww_event.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\my_node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:my_node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "waapi_picker.hpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\waapi_picker.hpp",
+              "RelativeDocumentMoniker": "waapi_picker.hpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\waapi_picker.hpp",
+              "RelativeToolTip": "waapi_picker.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-21T10:56:01.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "my_node.cpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\my_node.cpp",
+              "RelativeDocumentMoniker": "my_node.cpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\my_node.cpp",
+              "RelativeToolTip": "my_node.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T11:09:32.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ww_bank.hpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_bank.hpp",
+              "RelativeDocumentMoniker": "ww_bank.hpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_bank.hpp",
+              "RelativeToolTip": "ww_bank.hpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-21T11:13:29.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ww_bank.cpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_bank.cpp",
+              "RelativeDocumentMoniker": "ww_bank.cpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_bank.cpp",
+              "RelativeToolTip": "ww_bank.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T11:13:28.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ww_event.cpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_event.cpp",
+              "RelativeDocumentMoniker": "ww_event.cpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_event.cpp",
+              "RelativeToolTip": "ww_event.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T11:10:44.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ww_event.hpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_event.hpp",
+              "RelativeDocumentMoniker": "ww_event.hpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_event.hpp",
+              "RelativeToolTip": "ww_event.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-21T11:10:43.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "waapi_picker.cpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\waapi_picker.cpp",
+              "RelativeDocumentMoniker": "waapi_picker.cpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\waapi_picker.cpp",
+              "RelativeToolTip": "waapi_picker.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T10:56:00.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ww_environment.hpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_environment.hpp",
+              "RelativeDocumentMoniker": "ww_environment.hpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_environment.hpp",
+              "RelativeToolTip": "ww_environment.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-21T10:22:56.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ww_environment.cpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_environment.cpp",
+              "RelativeDocumentMoniker": "ww_environment.cpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_environment.cpp",
+              "RelativeToolTip": "ww_environment.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T10:22:56.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ww_event2d.hpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_event2d.hpp",
+              "RelativeDocumentMoniker": "ww_event2d.hpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_event2d.hpp",
+              "RelativeToolTip": "ww_event2d.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-21T10:21:41.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ww_event2d.cpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_event2d.cpp",
+              "RelativeDocumentMoniker": "ww_event2d.cpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_event2d.cpp",
+              "RelativeToolTip": "ww_event2d.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T10:21:41.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ww_listener2d.hpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_listener2d.hpp",
+              "RelativeDocumentMoniker": "ww_listener2d.hpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_listener2d.hpp",
+              "RelativeToolTip": "ww_listener2d.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-21T10:19:59.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ww_listener2d.cpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_listener2d.cpp",
+              "RelativeDocumentMoniker": "ww_listener2d.cpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_listener2d.cpp",
+              "RelativeToolTip": "ww_listener2d.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T10:19:59.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ww_listener.hpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_listener.hpp",
+              "RelativeDocumentMoniker": "ww_listener.hpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_listener.hpp",
+              "RelativeToolTip": "ww_listener.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-21T10:17:58.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ww_listener.cpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_listener.cpp",
+              "RelativeDocumentMoniker": "ww_listener.cpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_listener.cpp",
+              "RelativeToolTip": "ww_listener.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T10:17:57.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ww_switch.hpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_switch.hpp",
+              "RelativeDocumentMoniker": "ww_switch.hpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_switch.hpp",
+              "RelativeToolTip": "ww_switch.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-21T10:16:19.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ww_switch.cpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_switch.cpp",
+              "RelativeDocumentMoniker": "ww_switch.cpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_switch.cpp",
+              "RelativeToolTip": "ww_switch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T10:16:18.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ww_state.hpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_state.hpp",
+              "RelativeDocumentMoniker": "ww_state.hpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_state.hpp",
+              "RelativeToolTip": "ww_state.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-21T10:15:34.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ww_state.cpp",
+              "DocumentMoniker": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_state.cpp",
+              "RelativeDocumentMoniker": "ww_state.cpp",
+              "ToolTip": "C:\\Users\\morit\\OneDrive\\Dokumente\\BA\\gdextension\\src\\ww_state.cpp",
+              "RelativeToolTip": "ww_state.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T10:15:33.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
